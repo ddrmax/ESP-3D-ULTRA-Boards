@@ -1,6 +1,10 @@
 # ESP-3D-ULTRA-Boards
-A new customisable Design based on the ESP32 MCU for 3D Printing and CNC / Laser Cutting boards and drop-in replacement for common 3d printers boards.
+A new customisable Design based on the ESP32 MCU for 3D Printing and CNC / Laser Cutting boards and drop-in replacement for common 3d printers boards. Design specific to support Marlin 2.1.X firmware and a maximum of the features.
 
+## Design Goals and supported features
+Extensible design to support for up to 10 independent coordinated linear/rotary axes for custom applications
+Extensible design to support for up to 8 extruder heaters or 9 heated beds (for example a 3x3 heated bed setup for big DIY CORE XY Style 3D printers) 
+Extensible design to support for up to 8 PWM FANs and 8 Switched FANs
 ## License
 
 Schematics and Designs are all licenced under the **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)** license by default.
