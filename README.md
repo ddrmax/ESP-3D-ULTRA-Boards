@@ -1,5 +1,5 @@
 # ESP-3D-ULTRA-Boards
-A new customisable Design based on the ESP32 MCU for 3D Printing and CNC / Laser Cutting boards and drop-in replacement for common 3d printers boards. Design specific to support Marlin 2.1.X firmware and a maximum of the features.
+A new customisable Design based on the ESP32 and STM32 MCU for 3D Printing and CNC / Laser Cutting boards and drop-in replacement for common 3d printers boards. Design specific to support Marlin 2.1.X firmware and a maximum of the features.
 
 ## Design Goals and supported features
 Extensible design to support for up to 10 independent coordinated linear/rotary axes for custom applications
